@@ -1,6 +1,6 @@
 {
-  "short_name": "MaipoGrande",
-  "name": "MaipoGrande",
+  "short_name": "Admin App",
+  "name": "MaipoGrande admin app",
   "icons": [
     {
       "src": "favicon.ico",
